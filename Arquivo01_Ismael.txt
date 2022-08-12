@@ -1,5 +1,5 @@
-1º Arquivo criado! 2º Alteração!
-<<<<<<< HEAD
+Alteração da linha 1 Ismael.
+Alteração da linha 2 Ismael.
 Alteração Ismael!
 =======
 
