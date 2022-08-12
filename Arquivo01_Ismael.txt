@@ -1,9 +1,6 @@
-Alteração da linha 1 com conflito
-<<<<<<< HEAD
-Alteração Ismael!
-=======
 
+Conflito resolvido!
 O computador é uma máquina eletrônica capaz de receber
 informações, submetê-las a um conjunto especificado e prédeterminado de operações lógicas e aritméticas, e fornecer o
 resultado destas operações.
->>>>>>> 5bec2c6999c2ba2af9bdad65d57374d26d25ca27
+
