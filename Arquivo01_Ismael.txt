@@ -1,5 +1,6 @@
-1º Arquivo criado! 2º Alteração!
 
+Conflito resolvido!
 O computador é uma máquina eletrônica capaz de receber
 informações, submetê-las a um conjunto especificado e prédeterminado de operações lógicas e aritméticas, e fornecer o
 resultado destas operações.
+
