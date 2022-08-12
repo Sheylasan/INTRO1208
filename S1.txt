@@ -1,1 +1,8 @@
 Aula de Introdução Informática 2° alteração
+Os computadores de hoje são dispositivos eletrônicos que, sob
+direção e controle de um programa, executam quatro
+operações básicas:
+_Entrada
+_Processamento
+_Saída
+_Armazenamento
